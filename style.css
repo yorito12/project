@@ -93,25 +93,35 @@ nav .fas {
     width: 80%;
     margin: auto;
     margin-top: 100px;
+    background-color: aquamarine;
+}
+
+.course2 {
+    background-image: url(./image/未確認\ 120613.crdownload);
+    background-size: cover;
 }
 
 .course h1 {
-    font-size: 20px;
+    font-size: 50px;
     color: brown;
     font-weight: bold;
 }
 
 .row {
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-between; 
+}
+
+.footer {
+    text-align: center;
+
 }
 
 .course-col {
     background-color: aquamarine;
     flex-basis: 31%;
-    padding: 20px 12px;
+    padding: 50px 30px;
     border-radius: 10px;
-    margin: 5%;
     box-sizing: border-box;
     }
 
